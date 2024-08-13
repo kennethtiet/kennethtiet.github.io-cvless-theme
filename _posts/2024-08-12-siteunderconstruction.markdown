@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Site under construction]"
+title:  "[Site under construction -- click here for updates!]"
 date:   2024-08-12 18:31:07 -0700
 categories: jekyll update
 ---
