@@ -1,16 +1,16 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Kenneth Tiet
+title: kenneth tiet
 layout: default
 ---
  
 ## date
-- {{ site.time | date: "%a %b %d %Y %H:%M:%S %Z" }}
+- {{ site.time | date: "%a %b %d %Y %H:%M:%S %Z"| downcase}}
 
 ## education
-- 2023 university of southern california
-> bs in computer science gpa: 3.55
+- university of southern california
+> bs in computer science 2023 gpa: 3.55
 
 <!-- - 2020 Pasadena City College
 > AA in Computer Science GPA: 3.94 -->
@@ -21,13 +21,10 @@ layout: default
 - *teaching* robotics @ [institute of arts, music & science](http://www.iams-usa.org)
 
 ## formerly
-- swe intern @ [rovisys](https://www.rovisys.com), scholar @ [ucla cccp](https://www.aap.ucla.edu/units/cccp/), cyclist @ [usc](https://usccycling.com/), student-athlete @ [pcc](https://pcclancers.com/sports/mswimdive/index)
+- swe intern @ [rovisys](https://www.rovisys.com), tutor @ [elevateedu](https://elevateedu.com/), scholar @ [ucla cccp](https://www.aap.ucla.edu/units/cccp/), cyclist @ [usc](https://usccycling.com/), barista @ [oinkmoo](https://oinkmooteabar.square.site/), swimmer @ [pcc](https://pcclancers.com/sports/mswimdive/index) and [mpmr](https://www.gomotionapp.com/team/campmr/page/home)
 
 ## personally
 - [*reading*](/) meditations by marcus aurelius
 
 ## contact
-- say hello at [tietkenneth\[at\]gmail.com](mailto:tietkenneth@gmail.com) or [linkedIn](https://www.linkedin.com/in/kennethtiet) and [github](https://www.github.com/kennethtiet)
-
-
-- [First Post](jekyll/update/2024/08/13/welcome-to-jekyll.html)
+- say hello at [tietkenneth\[at\]gmail.com](mailto:tietkenneth@gmail.com) or [linkedin](https://www.linkedin.com/in/kennethtiet) and [github](https://www.github.com/kennethtiet)
