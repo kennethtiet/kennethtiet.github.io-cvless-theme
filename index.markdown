@@ -21,7 +21,7 @@ layout: default
 - *teaching* robotics @ [institute of arts, music & science](http://www.iams-usa.org)
 
 ## formerly
-- swe intern @ [rovisys](https://www.rovisys.com), tutor @ [elevateedu](https://elevateedu.com/), scholar @ [ucla cccp](https://www.aap.ucla.edu/units/cccp/), cyclist @ [usc](https://usccycling.com/), barista @ [oinkmoo](https://oinkmooteabar.square.site/), swimmer @ [pcc](https://pcclancers.com/sports/mswimdive/index) and [mpmr](https://www.gomotionapp.com/team/campmr/page/home)
+- swe intern @ [rovisys](https://www.rovisys.com), tutor @ [elevateedu](https://elevateedu.com/), scholar @ [ucla cccp](https://www.aap.ucla.edu/units/cccp/), cyclist @ [usc](https://usccycling.com/), barista @ [oinkmoo](https://oinkmooteabar.square.site/), swimmer @ [pcc](https://pcclancers.com/sports/mswimdive/index), [mpmr](https://www.gomotionapp.com/team/campmr/page/home), & [mkhs](https://www.mkhs.org/)
 
 ## personally
 - [*reading*](/) meditations by marcus aurelius
