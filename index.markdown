@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![Los Angeles](/assets/img/la.png)
