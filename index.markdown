@@ -30,4 +30,5 @@ layout: default
 ## contact
 - say hello at [tietkenneth\[at\]gmail.com](mailto:tietkenneth@gmail.com) or [linkedin](https://www.linkedin.com/in/kennethtiet) and [github](https://www.github.com/kennethtiet)
 
-## visit counter: <script type="text/javascript" src="//counter.websiteout.com/js/2/5/25/0"></script>
+## visit counter: <script type="text/javascript" src="//counter.websiteout.com/js/2/5/0/0"></script>
+
