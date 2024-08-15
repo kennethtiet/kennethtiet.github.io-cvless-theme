@@ -27,6 +27,8 @@ url: "https://kenneth.github.io" # the base hostname & protocol for your site, e
 github_username:  kennethtiet
 linkedin_username:  kennethtiet
 
+timezone: America/Los_Angeles
+
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0
 theme: jekyll-theme-hacker
