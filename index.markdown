@@ -24,7 +24,8 @@ layout: default
 - swe intern @ [rovisys](https://www.rovisys.com), tutor @ [elevateedu](https://elevateedu.com/), scholar @ [ucla cccp](https://www.aap.ucla.edu/units/cccp/), cyclist @ [usc](https://usccycling.com/), barista @ [oinkmoo](https://oinkmooteabar.square.site/), swimmer @ [pcc](https://pcclancers.com/sports/mswimdive/index), [mpmr](https://www.gomotionapp.com/team/campmr/page/home), & [mkhs](https://www.mkhs.org/)
 
 ## personally
-- [*reading*](/) meditations by marcus aurelius
+- [*reading*](/reading.html) meditations by marcus aurelius
+<!-- - [*writing*](/notes.html) notes for myself -->
 
 ## contact
 - say hello at [tietkenneth\[at\]gmail.com](mailto:tietkenneth@gmail.com) or [linkedin](https://www.linkedin.com/in/kennethtiet) and [github](https://www.github.com/kennethtiet)
