@@ -9,6 +9,17 @@ Hey there! Welcome to the site. I spend my researching at [USC Haptics Robotics 
 
 More stuff coming. Meanwhile, you can look at my resume [here](assets/files/KennethTietResume.pdf).
 
+# Previously
+
+Software intern building industry software tools to automate processes at [RoviSys](https://www.rovisys.com).
+
+# Hobbies
+
+Cycling at [USC Cycling Club](https://usccycling.com/).
+
+Swimming at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://pcclancers.com/sports/mswimdive/index), and [Mark Keppel High School](https://www.mkhs.org/).
+
+
 <!-- This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
 
 By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
