@@ -17,7 +17,7 @@ Software intern building industry software tools to automate processes at [RoviS
 
 Cycling at [USC Cycling Club](https://usccycling.com/).
 
-Swimming at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://pcclancers.com/sports/mswimdive/index), and [Mark Keppel High School](https://www.mkhs.org/).
+Swimming at USC Swim Club, [Pasadena City College](https://pcclancers.com/sports/mswimdive/index), [Monterey Park Manta Rays](https://www.gomotionapp.com/team/campmr/page/home), and [Mark Keppel High School](https://www.mkhs.org/).
 
 
 <!-- This is the home page. It can be used for a short introduction. [Click here](cv) to see the full CV, and [here](assets/files/cv.pdf) to download a print version. The theme also ships with a blog: [click here](posts) to scroll posts from the most recent. Finally, [click here](404) to see a page that can't be found.
