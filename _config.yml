@@ -3,7 +3,7 @@ description: Kenneth Tiet's Personal Website
 baseurl: ""
 url: https://kennethtiet.github.io
 
-theme: cvless
+# theme: cvless
 
 # site settings
 taglong: Kenneth Portfolio Website
