@@ -6,14 +6,14 @@ url: https://kennethtiet.github.io
 # theme: cvless
 
 # site settings
-taglong: Kenneth Portfolio Website
+taglong: Welcome!
 tagshort: Jekyll theme
 
 # author settings
 author: 
   name: Kenneth Tiet
   email: tietkenneth@gmail.com
-photo: assets/files/photo.jpg
+photo: assets/files/profile.jpg
 address: Foobar Hall 1.23
 phone: +1 626 400 9263
 
