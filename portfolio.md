@@ -15,6 +15,7 @@ title: Portfolio
 
 # 2022
 - EventMe \| Android SDK, Java, Google Firebase
+- Minesweeeper \| Android SDK, Java
 - Bankify \| Linux, Apache, MySQL, Perl
 - LinkBucket \| Java, HTML, CSS
 
