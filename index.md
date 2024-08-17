@@ -5,13 +5,13 @@ title: Home
 
 # About
 
-Hey there! Welcome to the site. I spend my time researching at [USC Haptics Robotics and Virtual Interaction Lab](https://sites.usc.edu/culbertson/) and teaching robotics at the [Institute of Arts, Music, & Science](http://www.iams-usa.org/). Recent USC graduate with a B.S. in Computer Science. I enjoy working out, cooking, swimming, reading, amongst other things.
+Hey there! Welcome to the 'site. 
+
+My name is Kenneth and I spend my time researching at [USC Haptics Robotics and Virtual Interaction Lab](https://sites.usc.edu/culbertson/) and teaching robotics at the [Institute of Arts, Music, & Science](http://www.iams-usa.org/). I also recently graduated from USC with a B.S. in Computer Science. I enjoy working out, cooking, and reading -- amongst other things.
 
 More stuff coming. Meanwhile, you can look at my resume [here](assets/files/KennethTietResume.pdf).
 
-# Previously
-
-Software intern building industry software tools to automate processes at [RoviSys](https://www.rovisys.com).
+I was previously a software intern building industry software tools to automate processes at [RoviSys](https://www.rovisys.com).
 
 # Hobbies
 
