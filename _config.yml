@@ -20,7 +20,6 @@ phone: +1 626 400 9263
 # social media links
 social:
   github: kennethtiet
-  instagram: kenneth_tiet
   linkedin: kennethtiet
 
 # build settings
@@ -29,3 +28,7 @@ exclude:
   - docker-compose.yml
   - LICENSE
   - README.md
+
+plugins:
+  - jekyll-seo-tag 
+  - jekyll-gist

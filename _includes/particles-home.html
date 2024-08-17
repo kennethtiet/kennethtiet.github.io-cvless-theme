@@ -25,6 +25,9 @@
       <a class="particles-icon" href="https://github.com/{{ site.social.github }}">{% include svg/github.svg %}</a>
       {% endif %}
       <a class="particles-icon" href="{{ '/assets/files/KennethTietResume.pdf' | relative_url }}">{% include svg/cv-circled.svg %}</a>
+      {% if site.author.email %}
+      <a class="particles-icon" href="mailto:{{ site.author.email }}">{% include svg/mail.svg %}</a>
+      {% endif %}
     </div>
   </div>
   <div class="particles-scroll">
