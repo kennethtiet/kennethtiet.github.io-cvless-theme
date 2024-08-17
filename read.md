@@ -31,7 +31,7 @@ title: Reading List
 - The Joy Luck Club \| Amy Tan
 
 # 2020
-- The Alchemist \| Paul Coelho
+- The Alchemist \| Paulo Coelho
 - Coach Wooden: The 7 Principles That Shaped His Life and Will Change Yours \| Pat Williams
 
 # 2019

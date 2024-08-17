@@ -12,7 +12,10 @@ Currently, I conduct [research](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist
 Previously, I was a software intern building industry software tools at [RoviSys](https://www.rovisys.com).
 
 # Currently
-I'm currently [reading](read) Meditations by Marcus Aurelius. I'm also learning new skills by following [this](https://roadmap.sh/backend) roadmap.
+I'm [reading](read) Meditations by Marcus Aurelius. I'm also learning new skills by following [this](https://roadmap.sh/backend) roadmap.
+
+# Portfolio
+Check out my past software projects [here](portfolio)!
 
 # Previously
 Cyclist at [USC Cycling Club](https://usccycling.com/).
